@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/glinux/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/cores/esp8266",
+                "/home/glinux/Downloads/arduino-1.8.4/hardware/arduino/avr/cores/arduino"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "/home/glinux/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/cores/esp8266",
+                    "${workspaceRoot}",
+                    "/home/glinux/Downloads/arduino-1.8.4/hardware/arduino/avr/cores/arduino"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 3
+}
